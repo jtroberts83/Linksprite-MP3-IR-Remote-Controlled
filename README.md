@@ -11,3 +11,7 @@ Serial Monitor window but the codes wont start with 0x but you just need to appe
  case 0xFFA857:   where the FFA857 was the volume up button code from my remote
 
 I hooked up the IR reciever to Arduino pin 8 as many of the others are used by the Shield.
+
+***The IR Remote and Reciever I am using is this one:  http://www.amazon.com/gp/product/B00KKROUSG?keywords=Arduino%20IR%20Receiver&qid=1457657541&ref_=sr_1_7&sr=8-7
+
+but pretty much any remote should work.
